@@ -1,0 +1,4 @@
+indark Os
+os.system("clear")
+print("hello hacker")
+
